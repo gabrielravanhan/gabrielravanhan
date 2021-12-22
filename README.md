@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<br/><br/>
+<br/>
 
 - My statistics
 <div align="center">
