@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<br/>
+<br/><br/>
 
 - My statistics
 <div align="center">
@@ -37,5 +37,3 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
-
-#
