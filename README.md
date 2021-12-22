@@ -1,6 +1,6 @@
-### Hello! I'm Gabriel Ravanhan 🤘 
-
 <img align="right" alt="spider-man" height="150" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
+
+## Hello! I'm Gabriel Ravanhan 🤘 
 
 <!--
 **gabrielravanhan/gabrielravanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
+
+#
