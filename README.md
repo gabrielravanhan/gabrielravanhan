@@ -1,6 +1,6 @@
-<img align="right" alt="spider-man" height="150" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
+## Hello! I'm Gabriel Ravanhan 🤘
 
-## Hello! I'm Gabriel Ravanhan 🤘 
+<img align="right" alt="spider-man" height="150" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
 
 <!--
 **gabrielravanhan/gabrielravanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+<br/><br/>
 
 - My statistics
 <div align="center">
