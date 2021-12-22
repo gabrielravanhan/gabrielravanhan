@@ -1,6 +1,6 @@
-<img align="right" alt="spider-man" height="150" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
-
 ### Hello! I'm Gabriel Ravanhan 🤘 
+
+<img align="right" alt="spider-man" height="150" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
 
 <!--
 **gabrielravanhan/gabrielravanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
