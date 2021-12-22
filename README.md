@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #
 
-### I'm studying
+- I'm studying
 <div align="center">
   <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-### My stats
+- My stats
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielravanhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
