@@ -6,7 +6,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
 </div>
-
 <div style="display: inline_block" align="center">
   <br>
   <img alt="HTML5" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
@@ -14,7 +13,8 @@
   <img alt="JS" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> -
   <img alt="Java" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -
   <img alt="MySQL" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <div align="right">
-    <img align="center" alt="spider-man" height="125" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">
-  </div>
+</div>
+<div align="center">
+  <br>
+  <img alt="spider-man" align="center" height="125" src="https://media.discordapp.net/attachments/898963203420200981/923029582087594054/spider-man.gif?width=427&height=427">  
 </div>
