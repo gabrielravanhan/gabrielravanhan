@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/gabrielravanhan">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielravanhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielravanhan&show_icons=true&theme=react&bg_color=0D1117&count_private=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=react&bg_color=0D1117">
   </a>
 </p>
 <p style="display: inline_block" align="center">
