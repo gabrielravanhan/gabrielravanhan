@@ -1,4 +1,4 @@
-## Hello! I'm Gabriel Ravanhan &#129304;
+## Hello! I'm Gabriel Ravanhan;
 
 <p align="center">
   <a href="https://github.com/gabrielravanhan">
