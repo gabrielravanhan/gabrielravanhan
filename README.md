@@ -21,8 +21,8 @@
     <h2>My stats 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
-        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=0D1117">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=0D1117">
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=66000000">
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
       </a>
     </div>
   </section>
