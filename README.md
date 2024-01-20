@@ -1,15 +1,35 @@
-<h1>Hello! I'm Gabriel Ravanhan</h1>
-<p align="center">
-  <a href="https://github.com/gabrielravanhan">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielravanhan&show_icons=true&theme=react&bg_color=0D1117&count_private=true&locale=pt-br&custom_title=Minhas+estatísticas"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=react&background=0D1117&locale=pt-br">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&layout=compact&langs_count=7&theme=react&bg_color=0D1117&locale=pt-br">
-  </a>
-</p>
-<p style="display: inline_block" align="center">
-  <img alt="HTML5" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img alt="CSS3" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img alt="JS" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
-  <img alt="Java" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img alt="MySQL" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</p>
+<header>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7">
+</header>
+<main>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Gabriel+Ravanhan.&color=00AEFF&size=40&center=true&vCenter=true&width=1000">
+  <hr>
+  <section>
+    <h2>My GitHub trophies 🏆</h2>
+    <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&no-frame=true&row=1&column=6&no-bg=true">
+    </div>
+  </section>
+  <hr>
+  <section>
+    <h2>My stats 👨‍💻</h2>
+    <div align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&hide_border=true&background=0D1117">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" width="375px">
+    </div>
+  </section>
+  <hr>
+  <!--
+  <section style="display: inline_block" align="center">
+    <img alt="HTML5" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+    <img alt="CSS3"  align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img alt="JS"    align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
+    <img alt="Java"  align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+    <img alt="MySQL" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </section>
+  !-->
+</main>
+<footer>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&section=footer">
+</footer>
