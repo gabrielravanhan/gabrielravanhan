@@ -12,7 +12,7 @@
     <h2>My GitHub trophies 🏆</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
-        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&no-frame=true&row=1&column=6&no-bg=true">
+        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=1&column=6&no-bg=true">
       </a>
     </div>
   </section>
@@ -21,8 +21,8 @@
     <h2>My stats 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
-        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&hide_border=true&background=0D1117">
+        <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=0D1117">
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=0D1117">
       </a>
     </div>
   </section>
