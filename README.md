@@ -1,5 +1,7 @@
 <header>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7">
+  <a href="https://github.com/gabrielravanhan">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7">
+  </a>
 </header>
 <main>
   <a href="https://github.com/gabrielravanhan">
@@ -37,5 +39,7 @@
   !-->
 </main>
 <footer>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&section=footer">
+  <a href="https://github.com/gabrielravanhan">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&section=footer">
+  </a>
 </footer>
