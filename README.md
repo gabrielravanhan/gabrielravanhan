@@ -38,6 +38,11 @@
     <img alt="MySQL" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </section>
   !-->
+  <div align="center">
+    <a href="https://github.com/gabrielravanhan">
+      <img align="center" src="https://komarev.com/ghpvc/?username=gabrielravanhan&style=for-the-badge&color=2F81F7">
+    </a>
+  </div>
 </main>
 <footer>
   <a href="https://github.com/gabrielravanhan">
