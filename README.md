@@ -12,7 +12,7 @@
     <h2>My GitHub trophies 🏆</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
-        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=1&column=6&no-bg=true">
+        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=3&column=3&no-bg=true">
       </a>
     </div>
   </section>
