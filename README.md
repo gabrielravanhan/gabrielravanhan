@@ -9,20 +9,20 @@
   </a>
   <hr>
   <section>
-    <h2>My GitHub trophies 🏆</h2>
-    <div align="center">
-      <a href="https://github.com/gabrielravanhan">
-        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=3&column=3&no-bg=true">
-      </a>
-    </div>
-  </section>
-  <hr>
-  <section>
     <h2>My stats 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
         <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=66000000">
         <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
+      </a>
+    </div>
+  </section>
+  <hr>
+  <section>
+    <h2>My GitHub trophies 🏆</h2>
+    <div align="center">
+      <a href="https://github.com/gabrielravanhan">
+        <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=3&column=3&no-bg=true">
       </a>
     </div>
   </section>
