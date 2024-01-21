@@ -9,7 +9,7 @@
   </a>
   <hr>
   <section>
-    <h2>My stats 👨‍💻</h2>
+    <h2>Stats 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan" style="display: block">
         <img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=66000000">
@@ -20,7 +20,7 @@
   </section>
   <hr>
   <section>
-    <h2>My GitHub trophies 🏆</h2>
+    <h2>GitHub Trophies 🏆</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan">
         <img src="https://github-profile-trophy.vercel.app/?username=gabrielravanhan&theme=algolia&row=3&column=3&no-bg=true">
