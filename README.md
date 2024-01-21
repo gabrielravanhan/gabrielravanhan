@@ -9,7 +9,7 @@
   </a>
   <hr>
   <section>
-    <h2>Stats 👨‍💻</h2>
+    <h2>Statistics 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan" style="display: block">
         <img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=66000000">
