@@ -30,9 +30,9 @@
     <h2>Statistics 👨‍💻</h2>
     <div align="center">
       <a href="https://github.com/gabrielravanhan" style="display: block">
-        <img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielravanhan&theme=algolia&show_icons=true&count_private=true&bg_color=66000000">
+        <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
         <br>
-        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&bg_color=66000000&layout=compact">
       </a>
     </div>
   </section>
