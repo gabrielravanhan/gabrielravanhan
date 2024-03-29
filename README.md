@@ -21,8 +21,6 @@
       <img alt="Angular"    height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
       <img alt="Ionic"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg">
       <img alt="Git"        height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <img alt="VSCode"     height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img alt="IntelliJ"   height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
     </div>
   </section>
   <hr>
