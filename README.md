@@ -25,11 +25,8 @@
   <section>
     <h2>Statistics 👨‍💻</h2>
     <div align="center">
-      <a href="https://github.com/gabrielravanhan" style="display: block">
-        <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
-        <br>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&bg_color=66000000&layout=compact">
-      </a>
+      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
+      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&bg_color=66000000&layout=compact">
     </div>
   </section>
   
