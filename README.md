@@ -18,7 +18,7 @@
       <img alt="Postman"    height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
       <img alt="MySQL"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      <br><br>
+      <br>
       <img alt="JS"         height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
       <img alt="TS"         height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       <img alt="Angular"    height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
