@@ -24,8 +24,8 @@
   <section>
     <h2>Statistics 👨‍💻</h2>
     <div align="center">
-      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000">
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&bg_color=66000000&layout=compact">
+      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielravanhan&theme=algolia&background=66000000&hide_border=true">
+      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielravanhan&theme=algolia&bg_color=66000000&layout=compact&hide_border=true">
     </div>
   </section>
   
