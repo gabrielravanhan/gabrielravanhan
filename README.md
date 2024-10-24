@@ -5,7 +5,7 @@
 </header>
 <main>
   <a href="https://github.com/gabrielravanhan">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Gabriel+Ravanhan.&color=00AEFF&size=40&center=true&vCenter=true&width=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Gabriel+Ravanhan.&color=FFF&size=40&center=true&vCenter=true&width=1000">
   </a>
   <hr>
   <section>
