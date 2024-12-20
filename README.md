@@ -18,6 +18,7 @@
       <img alt="Postman"    height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
       <img alt="MySQL"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       <img alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      <img alt="Oracle"     height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
     </div>
   </section>
   <hr>
