@@ -12,8 +12,9 @@
     <h2>Technologies 🧠</h2>
     <div align="center">
       <img alt="Java"       height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      <img alt="Maven"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
       <img alt="Spring"     height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      <img alt="Maven"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
+      <img alt="JUnit"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
       <img alt="IntelliJ"   height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
       <img alt="Postman"    height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
       <img alt="MySQL"      height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
